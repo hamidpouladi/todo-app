@@ -9,5 +9,5 @@ Simple todo application with node and mongodb as backend and react, redux, types
 - `git clone <this_url> && cd <repo_name>`
   - `cd client`
   - `npm install or yarn install`
-  - `cd ../server`
+  - `cd server`
   - `npm install or yarn install`
